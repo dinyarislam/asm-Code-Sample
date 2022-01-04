@@ -1,0 +1,13 @@
+MIPSVet Eula
+By agreeing to this EULA, you agree to the following:
+ + The software is provided as is and issues may be raised,
+ but no assistance may be given in resolving anything the software raises. This includes,
+ but is not limited to, debugging assembly and explaining why assembly generates a certain 
+error.
+ + You, the user, are responsible for ensuring that your code complies with
+ the official assignment specification and that it works to a satisfactory degree using officially
+ provided course materials such as MiSaSiM. + The software author bares no responsibility for consequences of usage of the
+ software.
+ + You may redistribute the software and use in any way possible, but the author
+ of this software is not responsible for what you do with the software or the source code.
+eula=true
